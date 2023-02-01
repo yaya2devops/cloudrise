@@ -27,7 +27,7 @@ const Layout = ({ location, title, children }) => {
       <footer>
         © {new Date().getFullYear()}, Yaya built this with the great help of
         {` `}
-        <a href="https://www.gatsbyjs.com">Gatsby</a>
+        <a href="https://github.com/yaya2devops/cloud-resources#readme">Gatsby</a>
       </footer>
     </div>
   )
