@@ -9,15 +9,15 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Cloud Certification Resources`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Yahya Abulhaj`,
+      summary: `who lives in the cloud and loves to add values to his fellow human beings.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `Presenting cloud resources that helped the author.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `yahya-abulhaj`, //its ok :)
     },
   },
   plugins: [
@@ -118,7 +118,7 @@ module.exports = {
         // https://css-tricks.com/meta-theme-color-and-trickery/
         // theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+        icon: `me.png`, // This path is relative to the root of the site.
       },
     },
   ],
