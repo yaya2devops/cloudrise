@@ -169,8 +169,7 @@ In this case, Terraform open source [documentation](https://www.terraform.io/doc
 - [250 Practice Questions For Terraform Associate Certification](https://medium.com/bb-tutorials-and-thoughts/250-practice-questions-for-terraform-associate-certification-7a3ccebe6a1a)
 - [All in one course for learning Terraform and gaining the official certification](https://www.udemy.com/course/terraform-beginner-to-advanced/)
 - [Deploy Infra in the Azure Cloud using Terraform](https://www.udemy.com/course/deploy-infra-in-the-cloud-using-terraform/)
-- [Andrew Brown Platform](https://www.exampro.co/terraform
-)
+- [Andrew Brown Platform](https://www.exampro.co/terraform)
 - [Bryan Krausen Practice Tests](https://www.udemy.com/course/terraform-associate-practice-exam/)
 
 
