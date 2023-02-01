@@ -10,7 +10,7 @@ As a fresh start, I will include a path to resources that I experienced and help
 Following the same rhythm with increasing effort, I was able to get certified as an **Azure Developer, Administrator, Security Engineer & DevOps Engineer Expert.**
 
 
-![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1650075475678/jgecqAgFc.png)
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1650075475678/jgecqAgFc.png" width=200>
 
 
 Microsoft offers a variety of foundational certifications with the exam code XX-900, depending on the field of interest.
@@ -34,12 +34,12 @@ For someone new to the cloud, it is challenging to choose the right material.
 ###  0. Microsoft Technical Documentation
 **Google the exam code by adding the shortcut ms docs or ms learn as shown below**
 
-![image_2022-02-18_175427.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1645203268383/2sC1Bgb7m.png)
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1645203268383/2sC1Bgb7m.png" width=500>
 
 **It should appear at the top of the search engine**
 
 You can find the skills measured for any MS certification in the official documentation for the exam, in the section below. Sample for the AZ-900:
-![SKILLSOUTLINE.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1645199357604/SP4RtGgM8.png)
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1645199357604/SP4RtGgM8.png" width=500>
 
 **The Documentation contains all the parts that you are going to be tested on, the day of the exam**
 
@@ -69,7 +69,7 @@ He is also an inspiring fitness guy who will probably encourage you to start goi
 
 ### 3. My Notes!
 
-![image_2022-05-25_014007531.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1653435606950/EMB2HrzvA.png)
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1653435606950/EMB2HrzvA.png" width=500>
 
 I attempted to gather the certification topics into a single scrollable [page](https://cloud.itzyahya.tech/A-AZ900) that can be used offline; I hope this is useful.
 
