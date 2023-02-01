@@ -11,8 +11,7 @@ description: Learn Infrastructure As Code and pass your certification exam
 
 # Infrastructure As Code (IaC)
 
-
-![IaC files.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1653311067910/kOfSuTBEs.png align="left")
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1653311067910/kOfSuTBEs.png" width=500 >
 
 As the name implies, IaC refers to **the management and provisioning of infrastructure using code rather than dealing with a graphical user interface and tapping here and there**. Although it does seem simple, a significant problem had to be resolved. <br>
 For instance, setting up such a complex architecture the traditional approach can take days of configuration while using an IaC tool can save you a considerable amount of time and assist you in achieving the levels of agility required to construct a successful route.
@@ -22,7 +21,7 @@ For instance, setting up such a complex architecture the traditional approach ca
 ## Cloud Providers IaC
 
 
-![over.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1653311294174/G97dVfo2r.png align="left")
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1653311294174/G97dVfo2r.png" width=500 >
 
 
 
@@ -37,7 +36,7 @@ Terraform by HashiCorp is an infrastructure as code tool that allows you to prov
 ### Overview
 
 
-![5.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1653221233055/V_BUpB8lX.png align="left")
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1653221233055/V_BUpB8lX.png" width=500 >
 
 
 Say i'm working at a company "A" and my job is to carry out an Azure storage, an Amazon DynamoDB and Google Compute Enginer VM etc..<br>
@@ -65,15 +64,11 @@ Follow the steps outlined [here](https://learn.hashicorp.com/tutorials/terraform
 
 ### Lifecycle
 The basic Terraform workflow consists of :
-1. Write - Create infrastructure in the form of code
-2. Init - Initialize a working directory:
-``` terraform init ```
-3. Plan - Before applying changes, preview them:
-``` terraform plan ```
-4. Apply - Create a replicable infrastructure:
-``` terraform apply  ```
-5. Destroy - Destroy infrastructure when no longer needed: 
-```terraform destroy```
+1. Write - Create infrastructure in the form of code <br>
+2. Init - Initialize a working directory: ` terraform init `<br>
+3. Plan - Before applying changes, preview them:` terraform plan `<br>
+4. Apply - Create a replicable infrastructure: ` terraform apply  `<br>
+5. Destroy - Destroy infrastructure when no longer needed: `terraform destroy` <br>
 
 **What is a State file?** <br>
 Terraform saves information about the infrastructure it creates in a terraform.tfstate file every time you run it.
@@ -111,6 +106,7 @@ To get started with Terraform, follow these steps:
 
 3- Create a configuration file: Terraform uses configuration files written in the HashiCorp Configuration Language (HCL) to define the infrastructure you want to create. Create a new file with a `.tf` extension and use the HCL syntax to define the resources you want to create. For example, to create an EC2 instance in AWS, you might use the following configuration:
 
+
 ```
 resource "aws_instance" "example" {
   ami           = "ami-027c0a66"
@@ -120,6 +116,7 @@ resource "aws_instance" "example" {
 
 4- Initialize Terraform: Before you can use Terraform to create resources, you'll need to initialize it. Open a terminal, navigate to the directory where your configuration file is located, and run the following command:
 
+
 ```
 terraform init
 ```
@@ -128,12 +125,12 @@ This will download and install any required plugins or modules.
 
 5- Preview your changes: Before you create your resources, it's a good idea to preview the changes that Terraform will make. Run the following command to see a summary of the resources that will be created:
 
+
 ```
 terraform plan
 ```
 
 6- Create your resources: If the preview looks good, you can create your resources by running the following command:
-
 ```
 terraform apply
 ```
@@ -141,6 +138,7 @@ terraform apply
 This will create the resources defined in your configuration file.
 
 That's it! You should now have a basic understanding of how to use Terraform to create infrastructure as code. For more information, be sure to check out the Terraform documentation.
+
 
 ---
 
@@ -155,7 +153,7 @@ With a hands-on approach, you'll quickly grasp the material and improve with eac
 
 
 
-![tfcert.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1653221441459/e2GB5lxQ6.png align="left")
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1653221441459/e2GB5lxQ6.png" width=500 >
 
 
 Another way to get started is to study and take the exam. I've found this method useful since deadlines push to your limits. <br>
@@ -171,8 +169,7 @@ In this case, Terraform open source [documentation](https://www.terraform.io/doc
 - [250 Practice Questions For Terraform Associate Certification](https://medium.com/bb-tutorials-and-thoughts/250-practice-questions-for-terraform-associate-certification-7a3ccebe6a1a)
 - [All in one course for learning Terraform and gaining the official certification](https://www.udemy.com/course/terraform-beginner-to-advanced/)
 - [Deploy Infra in the Azure Cloud using Terraform](https://www.udemy.com/course/deploy-infra-in-the-cloud-using-terraform/)
-- [Andrew Brown Platform](https://www.exampro.co/terraform
-)
+- [Andrew Brown Platform](https://www.exampro.co/terraform)
 - [Bryan Krausen Practice Tests](https://www.udemy.com/course/terraform-associate-practice-exam/)
 
 
