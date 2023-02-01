@@ -9,7 +9,7 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Yaya work`,
+    title: `Cloud Certification Resources`,
     author: {
       name: `Yahya Abulhaj`,
       summary: `who lives in the cloud and loves to add values to his fellow human beings.`,
