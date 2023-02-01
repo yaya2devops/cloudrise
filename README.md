@@ -6,4 +6,4 @@
   Cloud Certification Resources
 </h1>
 <p align="center">
-Migration of Cloud resources content in a single area for more visibility and reach. Thanks to <a href="https://www.gatsbyjs.com">Gatsby</a>.</p>
+Migration of Cloud resources content in a single area for more visibility and reach. Thanks to <a href="https://github.com/gatsbyjs/gatsby-starter-blog">Gatsby</a>.</p>
