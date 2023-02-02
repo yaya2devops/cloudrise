@@ -11,7 +11,7 @@ description: Learn Infrastructure As Code and pass your certification exam
 
 # Infrastructure As Code (IaC)
 
-<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1653311067910/kOfSuTBEs.png" width=500 >
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1653311067910/kOfSuTBEs.png" width=200 >
 
 As the name implies, IaC refers to **the management and provisioning of infrastructure using code rather than dealing with a graphical user interface and tapping here and there**. Although it does seem simple, a significant problem had to be resolved. <br>
 For instance, setting up such a complex architecture the traditional approach can take days of configuration while using an IaC tool can save you a considerable amount of time and assist you in achieving the levels of agility required to construct a successful route.
@@ -21,7 +21,7 @@ For instance, setting up such a complex architecture the traditional approach ca
 ## Cloud Providers IaC
 
 
-<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1653311294174/G97dVfo2r.png" width=500 >
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1653311294174/G97dVfo2r.png" width=200 >
 
 
 
@@ -36,7 +36,7 @@ Terraform by HashiCorp is an infrastructure as code tool that allows you to prov
 ### Overview
 
 
-<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1653221233055/V_BUpB8lX.png" width=500 >
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1653221233055/V_BUpB8lX.png" width=200 >
 
 
 Say i'm working at a company "A" and my job is to carry out an Azure storage, an Amazon DynamoDB and Google Compute Enginer VM etc..<br>
@@ -153,7 +153,7 @@ With a hands-on approach, you'll quickly grasp the material and improve with eac
 
 
 
-<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1653221441459/e2GB5lxQ6.png" width=500 >
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1653221441459/e2GB5lxQ6.png" width=200 >
 
 
 Another way to get started is to study and take the exam. I've found this method useful since deadlines push to your limits. <br>

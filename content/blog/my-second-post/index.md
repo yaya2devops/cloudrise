@@ -5,8 +5,9 @@ description: Get ahead with Azure administration
 ---
 
 
-#### Just after you are done with the foundation, things are becoming more serious now. You'll need a good practice with Azure for this level.
-![azure-administrator-associate-600x600.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1647184133907/9qM-u0VO6.png)
+ Just after you are done with the foundation, **things are becoming more serious now**. You'll need a good practice with Azure for this level.
+
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1647184133907/9qM-u0VO6.png" width="200">
 
 **In fact, this certification assisted me in understanding what happens in the cloud and what an Azure administrator does. <br> This blog will provide you with the resources you need to gain that knowledge and sit for the exam.**
 
@@ -29,7 +30,8 @@ Watch this video from **[Yatharth Kapoor](https://www.youtube.com/watch?v=2nxEF1
 - This course will get you steps into your preparation.
 
 
-#### Importantly, you cannot prepare for an Azure certification without going through what ** John Savill ** provides to the community.
+#### Importantly, you cannot prepare for an Azure certification without going through what 
+**John Savill** provides to the community.
 He is having a [playlist](https://www.youtube.com/watch?v=VOod_VNgdJk&list=PLlVtbbG169nGlGPWs9xaLKT1KfwqREHbs) covering the whole exam and more..
 
 

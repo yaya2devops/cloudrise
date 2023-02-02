@@ -34,12 +34,12 @@ For someone new to the cloud, it is challenging to choose the right material.
 ###  0. Microsoft Technical Documentation
 **Google the exam code by adding the shortcut ms docs or ms learn as shown below**
 
-<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1645203268383/2sC1Bgb7m.png" width=500>
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1645203268383/2sC1Bgb7m.png" width=200>
 
 **It should appear at the top of the search engine**
 
 You can find the skills measured for any MS certification in the official documentation for the exam, in the section below. Sample for the AZ-900:
-<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1645199357604/SP4RtGgM8.png" width=500>
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1645199357604/SP4RtGgM8.png" width=200>
 
 **The Documentation contains all the parts that you are going to be tested on, the day of the exam**
 
@@ -69,7 +69,7 @@ He is also an inspiring fitness guy who will probably encourage you to start goi
 
 ### 3. My Notes!
 
-<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1653435606950/EMB2HrzvA.png" width=500>
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1653435606950/EMB2HrzvA.png" width=200>
 
 I attempted to gather the certification topics into a single scrollable [page](https://cloud.itzyahya.tech/A-AZ900) that can be used offline; I hope this is useful.
 
