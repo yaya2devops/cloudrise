@@ -7,7 +7,7 @@ description: Get ahead with Azure administration
 
  Just after you are done with the foundation, **things are becoming more serious now**. You'll need a good practice with Azure for this level.
 
-<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1647184133907/9qM-u0VO6.png" width="200">
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1647184133907/9qM-u0VO6.png" width="350">
 
 **In fact, this certification assisted me in understanding what happens in the cloud and what an Azure administrator does. <br> This blog will provide you with the resources you need to gain that knowledge and sit for the exam.**
 
