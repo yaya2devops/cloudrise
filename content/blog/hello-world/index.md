@@ -39,7 +39,8 @@ For someone new to the cloud, it is challenging to choose the right material.
 **It should appear at the top of the search engine**
 
 You can find the skills measured for any MS certification in the official documentation for the exam, in the section below. Sample for the AZ-900:
-<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1645199357604/SP4RtGgM8.png" width=200>
+
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1645199357604/SP4RtGgM8.png" width=350>
 
 **The Documentation contains all the parts that you are going to be tested on, the day of the exam**
 
