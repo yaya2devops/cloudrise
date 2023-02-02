@@ -9,7 +9,7 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Cloudrise`,
+    title: `Cloudrise: Your Gateway to the Cloud`,
     author: {
       name: `Yahya Abulhaj`,
       summary: `who lives in the cloud and loves to add values to his fellow human beings.`,
