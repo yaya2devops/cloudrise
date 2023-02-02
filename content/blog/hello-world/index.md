@@ -1,5 +1,5 @@
 ---
-title: Getting started with Microsoft Azure Fundamentals Certifications
+title: Getting started Cloud Fundamentals Certifications at Microsoft
 date: "2022-02-18T22:12:03.284Z"
 description: "Get started in the cloud"
 ---
